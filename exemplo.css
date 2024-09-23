@@ -1,0 +1,39 @@
+p.destaque {
+  border-color: blue; }
+
+.msg, .msg-error, .msg.alert {
+  border: 1px solid;
+  padding: 4px;
+  text-align: center; }
+
+.msg-error {
+  border-color: #ff0000;
+  color: #ff0000; }
+
+.alert.msg-error, .alert.msg {
+  border-color: #ff8e00;
+  color: #ff8e00; }
+
+h1 {
+  font-size: 7px; }
+
+p {
+  font: 10px/8px bold italic serif;
+  width: 500px;
+  width: 1;
+  height: 250px;
+  margin-left: 9px;
+  font: italic bold 10px/8px;
+  font-size: 20px/ 22px; }
+
+.btn-follow, .btn {
+  padding: 16px;
+  border-color: white;
+  border: 16px solid;
+  border-radius: 5px; }
+
+.btn {
+  border-color: #ff8e00;
+  color: #ff8e00;
+  padding: 1rem;
+  border: 1rem solid; }
